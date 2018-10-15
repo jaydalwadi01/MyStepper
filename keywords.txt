@@ -1,0 +1,4 @@
+MyStepper 	KEYWORD1
+Steps 		KEYWORD2
+OneRevolution	KEYWORD2
+SetSpeed 	KEYWORD2
